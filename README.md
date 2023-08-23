@@ -19,12 +19,12 @@ Options:
 Encode the `qwe` string
 
 ```
-hexstr -e qwe
+$ hexstr -e qwe
 717765
 ```
 Decode the `717765` hexstring
 
 ```
-hexstr -d 717765
+$ hexstr -d 717765
 qwe
 ```
